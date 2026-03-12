@@ -1,0 +1,78 @@
+GEOID,County Name,State
+09001,fairfield,connecticut
+09003,hartford,connecticut
+09005,litchfield,connecticut
+09007,middlesex,connecticut
+09009,new haven,connecticut
+09011,new london,connecticut
+09013,tolland,connecticut
+09015,windham,connecticut
+51003,albemarle,virginia
+51005,alleghany,virginia
+51015,augusta,virginia
+51031,campbell,virginia
+51035,carroll,virginia
+51053,dinwiddie,virginia
+51059,fairfax,virginia
+51069,frederick,virginia
+51081,greensville,virginia
+51089,henry,virginia
+51095,james city,virginia
+51121,montgomery,virginia
+51143,pittsylvania,virginia
+51149,prince george,virginia
+51153,prince william,virginia
+51161,roanoke,virginia
+51163,rockbridge,virginia
+51165,rockingham,virginia
+51175,southampton,virginia
+51177,spotsylvania,virginia
+51191,washington,virginia
+51195,wise,virginia
+51199,york,virginia
+51520,bristol city,virginia
+51530,buena vista city,virginia
+51540,charlottesville city,virginia
+51570,colonial heights city,virginia
+51580,covington city,virginia
+51590,danville city,virginia
+51595,emporia city,virginia
+51600,fairfax city,virginia
+51610,falls church city,virginia
+51620,franklin city,virginia
+51630,fredericksburg city,virginia
+51640,galax city,virginia
+51660,harrisonburg city,virginia
+51670,hopewell city,virginia
+51678,lexington city,virginia
+51680,lynchburg city,virginia
+51683,manassas city,virginia
+51685,manassas park city,virginia
+51690,martinsville city,virginia
+51720,norton city,virginia
+51730,petersburg city,virginia
+51735,poquoson city,virginia
+51750,radford,virginia
+51775,salem city,virginia
+51790,staunton city,virginia
+51820,waynesboro city,virginia
+51830,williamsburg city,virginia
+51840,winchester city,virginia
+,anchorage,alaska
+,denali,alaska
+,kodiak island,alaska
+,southeast fairbanks,alaska
+,mohave,arizona
+,hawaii,hawaii
+,honolulu,hawaii
+,maui,hawaii
+,dekalb,illinois
+,lasalle,illinois
+,o'brien,iowa
+,naguabo,puerto rico
+,santa isabel,puerto rico
+,fond du lac,wisconsin
+,ross,ohio
+,newton,indiana
+,keokuk,iowa
+,hamilton,kansas
