@@ -1,0 +1,6 @@
+scenario,n_counties,n_unique_geoid,duplicate_geoid_rows,mean_social_score,mean_full_score,gdp_source,include_gdp,restrict_to_nonmissing_gdp
+filled_no_gdp_all_counties,3099,3099,0,0.2949159285596782,0.39982233928049077,GDP_percapita_merged.csv,False,False
+filled_no_gdp_gdp_sample,3097,3097,0,0.29476771394850293,0.3997943502040006,GDP_percapita_merged.csv,False,True
+filled_with_gdp,3097,3097,0,0.18991757560411035,0.31558933829013525,GDP_percapita_merged.csv,True,True
+orig_no_gdp_same_sample,3040,3040,0,0.3100994171913591,0.4061002801715238,GDP_percapita.csv,False,True
+orig_with_gdp,3040,3040,0,0.2911023734358628,0.28199731085789703,GDP_percapita.csv,True,True
