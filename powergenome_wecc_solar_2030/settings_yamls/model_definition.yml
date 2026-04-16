@@ -1,0 +1,169 @@
+model_regions:
+- AZ1
+- AZ2
+- CA1
+- CA2
+- CO1
+- ID1
+- MT1
+- MT2
+- MT3
+- MT4
+- NE1
+- NM1
+- NV1
+- OR1
+- SD1
+- TX1
+- UT1
+- WA1
+- WY1
+- WY2
+region_aggregations:
+  WA1:
+  - p1
+  - p2
+  - p3
+  - p4
+  OR1:
+  - p5
+  - p6
+  - p7
+  CA1:
+  - p10
+  - p11
+  CA2:
+  - p8
+  - p9
+  NV1:
+  - p12
+  - p13
+  ID1:
+  - p14
+  - p15
+  - p16
+  MT1:
+  - p17
+  - p20
+  MT2:
+  - p18
+  MT3:
+  - p35
+  MT4:
+  - p19
+  WY1:
+  - p21
+  - p24
+  WY2:
+  - p22
+  - p23
+  UT1:
+  - p25
+  - p26
+  AZ1:
+  - p27
+  AZ2:
+  - p28
+  - p29
+  - p30
+  NM1:
+  - p31
+  SD1:
+  - p32
+  CO1:
+  - p33
+  - p34
+  NE1:
+  - p39
+  TX1:
+  - p59
+target_usd_year: 2024
+model_periods:
+- - 2026
+  - 2030
+utc_offset: -8
+generator_columns:
+- region
+- Resource
+- technology
+- cluster
+- R_ID
+- Zone
+- Num_VRE_Bins
+- CapRes_1
+- CapRes_2
+- THERM
+- VRE
+- MUST_RUN
+- STOR
+- FLEX
+- LDS
+- HYDRO
+- ESR_1
+- ESR_2
+- MinCapTag_1
+- MinCapTag_2
+- Min_Share
+- Max_Share
+- Existing_Cap_MWh
+- Existing_Cap_MW
+- Existing_Charge_Cap_MW
+- num_units
+- unmodified_existing_cap_mw
+- New_Build
+- Cap_Size
+- Min_Cap_MW
+- Max_Cap_MW
+- Max_Cap_MWh
+- Min_Cap_MWh
+- Max_Charge_Cap_MW
+- Min_Charge_Cap_MW
+- Min_Share_percent
+- Max_Share_percent
+- capex_mw
+- Inv_Cost_per_MWyr
+- Fixed_OM_Cost_per_MWyr
+- capex_mwh
+- Inv_Cost_per_MWhyr
+- Fixed_OM_Cost_per_MWhyr
+- Var_OM_Cost_per_MWh
+- Var_OM_Cost_per_MWh_In
+- Inv_Cost_Charge_per_MWyr
+- Fixed_OM_Cost_Charge_per_MWyr
+- Start_Cost_per_MW
+- Start_Fuel_MMBTU_per_MW
+- Heat_Rate_MMBTU_per_MWh
+- heat_rate_mmbtu_mwh_iqr
+- heat_rate_mmbtu_mwh_std
+- Fuel
+- Min_Power
+- Self_Disch
+- Eff_Up
+- Eff_Down
+- Hydro_Energy_to_Power_Ratio
+- Ratio_power_to_energy
+- Min_Duration
+- Max_Duration
+- Max_Flexible_Demand_Delay
+- Max_Flexible_Demand_Advance
+- Flexible_Demand_Energy_Eff
+- Ramp_Up_Percentage
+- Ramp_Dn_Percentage
+- Up_Time
+- Down_Time
+- NACC_Eff
+- NACC_Peak_to_Base
+- Reg_Max
+- Rsv_Max
+- Reg_Cost
+- Rsv_Cost
+- spur_miles
+- spur_capex
+- offshore_spur_miles
+- offshore_spur_capex
+- tx_miles
+- tx_capex
+- interconnect_annuity
+- Min_Retired_Cap_MW
+- Min_Retired_Energy_Cap_MW
+- Min_Retired_Charge_Cap_MW

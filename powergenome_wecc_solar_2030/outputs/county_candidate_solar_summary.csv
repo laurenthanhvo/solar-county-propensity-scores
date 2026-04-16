@@ -1,0 +1,2 @@
+county_fips,county_name,state_name,state_abbrev,candidate_site_count,capacity_mw_sum,capacity_mw_mean,capacity_mw_max,lcoe_mean,lcoe_min,lcoe_max
+,,,,159408,1.6713917e+07,104.84992,188.63135,34.087513,22.62078,60.61094

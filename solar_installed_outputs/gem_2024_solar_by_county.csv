@@ -1,0 +1,1207 @@
+state_abbrev,state_name,county_name,county_fips,project_count,total_capacity_mw,avg_capacity_mw
+CA,California,Kern,06029,144,4805.0,33.36805555555556
+CA,California,Riverside,06065,101,4735.2,46.88316831683168
+NV,Nevada,Clark,32003,71,4196.8,59.10985915492958
+CA,California,San Bernardino,06071,92,2370.8,25.769565217391307
+AZ,Arizona,Maricopa,04013,42,2268.6,54.01428571428571
+CA,California,Imperial,06025,46,2163.5,47.03260869565217
+TX,Texas,Pecos,48371,13,2069.7,159.2076923076923
+TX,Texas,Wharton,48481,6,2035.0,339.1666666666667
+CA,California,Kings,06031,44,1760.3,40.00681818181818
+CA,California,Los Angeles,06037,147,1703.2,11.58639455782313
+CA,California,Fresno,06019,68,1591.2,23.400000000000002
+TX,Texas,Brazoria,48039,7,1361.1,194.44285714285712
+TX,Texas,Fort Bend,48157,6,1221.2,203.53333333333333
+AZ,Arizona,Pinal,04021,17,1207.3,71.01764705882353
+CO,Colorado,Pueblo,08101,9,1149.8,127.75555555555555
+AZ,Arizona,Yuma,04027,13,1110.0,85.38461538461539
+TX,Texas,Andrews,48003,4,1070.0,267.5
+OH,Ohio,Madison,39097,6,957.2,159.53333333333333
+TX,Texas,Lamar,48277,5,948.5,189.7
+TX,Texas,Milam,48331,4,890.0,222.5
+UT,Utah,Iron,49021,19,857.0,45.10526315789474
+CA,California,San Luis Obispo,06079,18,851.2,47.28888888888889
+TX,Texas,Upton,48461,4,827.0,206.75
+FL,Florida,Hillsborough,12057,16,668.4,41.775
+TX,Texas,Scurry,48415,2,654.0,327.0
+TX,Texas,Navarro,48349,3,613.0,204.33333333333334
+TX,Texas,Bell,48027,2,605.4,302.7
+FL,Florida,Hendry,12051,8,596.0,74.5
+TX,Texas,Falls,48145,5,594.1,118.82000000000001
+IL,Illinois,Sangamon,17167,1,592.8,592.8
+FL,Florida,Polk,12105,15,579.7,38.64666666666667
+OH,Ohio,Highland,39071,4,550.0,137.5
+IN,Indiana,White,18181,3,550.0,183.33333333333334
+FL,Florida,DeSoto,12027,8,546.5,68.3125
+CA,California,Tulare,06107,60,539.4,8.99
+TX,Texas,Borden,48033,3,530.6,176.86666666666667
+VA,Virginia,Halifax,51083,9,526.8,58.53333333333333
+TX,Texas,Denton,48121,4,524.5,131.125
+FL,Florida,Manatee,12081,7,521.5,74.5
+FL,Florida,St. Lucie,12111,7,521.5,74.5
+GA,Georgia,Decatur,13087,6,517.0,86.16666666666667
+NM,New Mexico,McKinley,35031,3,508.0,169.33333333333334
+TX,Texas,Hopkins,48223,2,505.9,252.95
+VA,Virginia,Spotsylvania,51177,4,500.0,125.0
+TX,Texas,Swisher,48437,1,500.0,500.0
+TX,Texas,Culberson,48109,3,472.0,157.33333333333334
+TX,Texas,Delta,48119,1,471.0,471.0
+MI,Michigan,Calhoun,26025,5,471.0,94.2
+TX,Texas,Hill,48217,4,467.0,116.75
+TX,Texas,Kent,48263,2,452.0,226.0
+FL,Florida,Okeechobee,12093,7,447.0,63.857142857142854
+MA,Massachusetts,Worcester,25027,160,444.0,2.775
+GA,Georgia,Mitchell,13205,4,440.4,110.1
+GA,Georgia,Jeff Davis,13161,6,412.0,68.66666666666667
+GA,Georgia,Taylor,13269,5,405.7,81.14
+IN,Indiana,Starke,18149,1,400.0,400.0
+TX,Texas,Limestone,48293,1,400.0,400.0
+NV,Nevada,Washoe,32031,9,393.1,43.67777777777778
+TX,Texas,McLennan,48309,4,376.0,94.0
+FL,Florida,Bay,12005,5,373.70000000000005,74.74000000000001
+TX,Texas,Tom Green,48451,2,372.8,186.4
+FL,Florida,Indian River,12061,5,372.5,74.5
+UT,Utah,Beaver,49001,12,363.1,30.258333333333336
+NC,North Carolina,Northampton,37131,17,362.8,21.341176470588238
+AR,Arkansas,Crittenden,05035,2,360.0,180.0
+TX,Texas,Concho,48095,2,360.0,180.0
+NM,New Mexico,Bernalillo,35001,10,356.7,35.67
+CA,California,Merced,06047,16,352.5,22.03125
+TX,Texas,Frio,48163,2,332.4,166.2
+CA,California,Sacramento,06067,48,327.0,6.8125
+AR,Arkansas,Mississippi,05093,3,326.0,108.66666666666667
+OH,Ohio,Union,39159,1,325.0,325.0
+TX,Texas,Haskell,48207,2,325.0,162.5
+HI,Hawaii,Honolulu,15003,18,324.9,18.049999999999997
+OH,Ohio,Ross,39141,2,323.9,161.95
+VA,Virginia,Greensville,51081,4,320.0,80.0
+TX,Texas,Brown,48049,1,320.0,320.0
+FL,Florida,Brevard,12009,5,308.0,61.6
+TX,Texas,Uvalde,48463,2,303.5,151.75
+AZ,Arizona,Pima,04019,29,300.8,10.37241379310345
+TX,Texas,Bee,48025,2,300.7,150.35
+WI,Wisconsin,Iowa,55049,2,300.0,150.0
+TX,Texas,Red River,48387,1,300.0,300.0
+IN,Indiana,Randolph,18135,2,300.0,150.0
+GA,Georgia,Brooks,13027,2,300.0,150.0
+LA,Louisiana,Pointe Coupee,22077,1,300.0,300.0
+NC,North Carolina,Nash,37127,31,299.4,9.658064516129032
+IL,Illinois,White,17193,2,299.0,149.5
+FL,Florida,Columbia,12023,4,298.8,74.7
+FL,Florida,Gilchrist,12041,4,298.8,74.7
+FL,Florida,Martin,12085,4,298.5,74.625
+LA,Louisiana,Morehouse,22067,2,298.1,149.05
+FL,Florida,Putnam,12107,4,298.0,74.5
+FL,Florida,Calhoun,12013,4,298.0,74.5
+FL,Florida,Baker,12003,4,298.0,74.5
+CA,California,Stanislaus,06099,6,297.5,49.583333333333336
+CA,California,Monterey,06053,7,291.6,41.65714285714286
+GA,Georgia,Lee,13177,3,290.0,96.66666666666667
+CO,Colorado,El Paso,08041,7,289.5,41.357142857142854
+MN,Minnesota,Sherburne,27141,29,287.4,9.910344827586206
+NC,North Carolina,Edgecombe,37065,9,281.5,31.27777777777778
+OH,Ohio,Brown,39015,2,280.0,140.0
+VA,Virginia,Isle of Wight,51093,4,279.0,69.75
+MI,Michigan,Shiawassee,26155,5,279.0,55.8
+FL,Florida,Escambia,12033,4,273.5,68.375
+SC,South Carolina,Orangeburg,45075,6,271.3,45.21666666666667
+IN,Indiana,Jasper,18073,3,269.8,89.93333333333334
+NC,North Carolina,Bladen,37017,14,267.5,19.107142857142858
+VA,Virginia,Richmond,51159,4,264.0,66.0
+FL,Florida,Santa Rosa,12113,4,263.5,65.875
+NC,North Carolina,Currituck,37053,5,262.4,52.48
+TX,Texas,Crane,48103,2,258.0,129.0
+NV,Nevada,Nye,32023,4,257.0,64.25
+VA,Virginia,Chesapeake,51550,6,255.0,42.5
+NM,New Mexico,Valencia,35061,9,254.5,28.27777777777778
+WI,Wisconsin,Grant,55043,4,254.0,63.5
+IL,Illinois,Clay,17025,2,252.0,126.0
+WI,Wisconsin,Manitowoc,55071,2,250.0,125.0
+TX,Texas,Winkler,48495,1,250.0,250.0
+GA,Georgia,Toombs,13279,1,250.0,250.0
+VA,Virginia,Pittsylvania,51143,9,245.4,27.266666666666666
+VA,Virginia,Surry,51181,2,240.3,120.15
+TX,Texas,Childress,48075,1,240.0,240.0
+MO,Missouri,Audrain,29007,2,230.0,115.0
+FL,Florida,Osceola,12097,4,227.3,56.825
+AL,Alabama,Colbert,01033,1,227.0,227.0
+PA,Pennsylvania,Franklin,42055,5,225.0,45.0
+GA,Georgia,Twiggs,13289,2,224.0,112.0
+FL,Florida,Madison,12079,3,223.9,74.63333333333334
+FL,Florida,Walton,12131,3,223.5,74.5
+FL,Florida,Jackson,12063,3,223.5,74.5
+FL,Florida,Palm Beach,12099,3,223.5,74.5
+FL,Florida,Clay,12019,3,223.5,74.5
+ID,Idaho,Twin Falls,16083,3,222.0,74.0
+NC,North Carolina,Robeson,37155,44,221.0,5.0227272727272725
+TX,Texas,Fannin,48147,3,216.6,72.2
+TX,Texas,Ellis,48139,2,214.7,107.35
+NY,New York,Livingston,36051,9,213.0,23.666666666666668
+NC,North Carolina,Halifax,37083,13,211.9,16.3
+AR,Arkansas,Ashley,05003,4,211.2,52.8
+TX,Texas,Webb,48479,2,210.0,105.0
+WI,Wisconsin,Kenosha,55059,3,209.8,69.93333333333334
+SC,South Carolina,Lexington,45063,9,207.3,23.033333333333335
+AR,Arkansas,Arkansas,05001,3,207.0,69.0
+IA,Iowa,Linn,19113,3,204.5,68.16666666666667
+NC,North Carolina,Hertford,37091,20,203.5,10.175
+NC,North Carolina,Cumberland,37051,15,202.8,13.520000000000001
+IL,Illinois,Coles,17029,1,200.0,200.0
+TX,Texas,Dimmit,48127,1,200.0,200.0
+TX,Texas,Nolan,48353,1,200.0,200.0
+NM,New Mexico,San Juan,35045,1,200.0,200.0
+TX,Texas,Jones,48253,1,200.0,200.0
+TX,Texas,Kinney,48271,2,200.0,100.0
+NV,Nevada,Eureka,32011,2,200.0,100.0
+MS,Mississippi,Sunflower,28133,2,199.0,99.5
+AR,Arkansas,White,05145,4,198.8,49.7
+TX,Texas,Ector,48135,3,196.8,65.60000000000001
+TX,Texas,Calhoun,48057,1,196.3,196.3
+IN,Indiana,Clinton,18023,1,195.0,195.0
+GA,Georgia,Early,13099,4,193.5,48.375
+VA,Virginia,Orange,51137,2,192.5,96.25
+GA,Georgia,Burke,13033,5,190.9,38.18
+VA,Virginia,Mecklenburg,51117,3,189.9,63.300000000000004
+ME,Maine,Kennebec,23011,20,187.5,9.375
+MN,Minnesota,Chisago,27025,64,185.3,2.8953125
+NC,North Carolina,Duplin,37061,35,184.5,5.271428571428571
+AR,Arkansas,Jackson,05067,3,183.9,61.300000000000004
+NJ,New Jersey,Burlington,34005,37,181.4,4.902702702702703
+TX,Texas,Travis,48453,5,180.29999999999998,36.059999999999995
+TX,Texas,Cameron,48061,2,180.0,90.0
+FL,Florida,Okaloosa,12091,3,179.0,59.666666666666664
+IN,Indiana,St. Joseph,18141,5,178.7,35.739999999999995
+IL,Illinois,Morgan,17137,6,178.0,29.666666666666668
+MA,Massachusetts,Hampden,25013,59,175.6,2.9762711864406777
+VA,Virginia,Charles City,51036,1,175.0,175.0
+MS,Mississippi,Scott,28123,1,175.0,175.0
+NM,New Mexico,Chaves,35005,5,174.3,34.86
+KY,Kentucky,Logan,21141,1,173.0,173.0
+SC,South Carolina,Calhoun,45017,5,172.39999999999998,34.48
+NC,North Carolina,Catawba,37035,13,171.3,13.176923076923078
+CO,Colorado,Las Animas,08071,2,170.0,85.0
+VA,Virginia,Prince George,51149,2,169.7,84.85
+MA,Massachusetts,Plymouth,25023,62,166.7,2.6887096774193546
+OR,Oregon,Crook,41013,3,166.3,55.43333333333334
+NM,New Mexico,Sandoval,35043,7,165.6,23.657142857142855
+IL,Illinois,Clark,17023,1,165.3,165.3
+UT,Utah,Box Elder,49003,3,163.1,54.36666666666667
+OR,Oregon,Gilliam,41021,1,162.0,162.0
+ID,Idaho,Elmore,16039,5,160.0,32.0
+AZ,Arizona,Cochise,04003,7,158.7,22.67142857142857
+FL,Florida,Suwannee,12121,3,158.20000000000002,52.73333333333334
+NY,New York,Montgomery,36057,11,157.9,14.354545454545455
+GA,Georgia,Washington,13303,2,157.7,78.85
+IN,Indiana,Henry,18065,4,156.4,39.1
+UT,Utah,Tooele,49045,2,155.0,77.5
+FL,Florida,Alachua,12001,6,154.20000000000002,25.700000000000003
+OH,Ohio,Hardin,39065,3,153.0,51.0
+WI,Wisconsin,Sheboygan,55117,2,152.3,76.15
+TX,Texas,Dawson,48115,2,152.0,76.0
+NJ,New Jersey,Middlesex,34023,53,151.6,2.860377358490566
+FL,Florida,Miami-Dade,12086,4,151.2,37.8
+GA,Georgia,Dougherty,13095,2,151.0,75.5
+NC,North Carolina,Warren,37185,10,150.9,15.09
+FL,Florida,Volusia,12127,3,150.6,50.199999999999996
+TX,Texas,Jackson,48239,1,150.5,150.5
+NY,New York,Suffolk,36103,23,150.29999999999998,6.534782608695651
+WY,Wyoming,Laramie,56021,1,150.0,150.0
+IA,Iowa,Lee,19111,1,150.0,150.0
+TN,Tennessee,Lincoln,47103,1,150.0,150.0
+WI,Wisconsin,Wood,55141,1,150.0,150.0
+TX,Texas,Polk,48373,1,150.0,150.0
+MS,Mississippi,Lowndes,28087,1,150.0,150.0
+WA,Washington,Klickitat,53039,1,150.0,150.0
+TX,Texas,San Patricio,48409,1,150.0,150.0
+WI,Wisconsin,Dodge,55027,2,150.0,75.0
+IL,Illinois,Cass,17017,1,150.0,150.0
+FL,Florida,Hamilton,12047,2,149.8,74.9
+FL,Florida,Hardee,12049,2,149.8,74.9
+NC,North Carolina,Scotland,37165,17,149.7,8.805882352941175
+NC,North Carolina,Washington,37187,3,149.6,49.86666666666667
+IL,Illinois,Perry,17145,2,149.0,74.5
+FL,Florida,Gadsden,12039,2,149.0,74.5
+FL,Florida,Charlotte,12015,2,149.0,74.5
+CO,Colorado,Alamosa,08003,10,148.9,14.89
+CA,California,San Benito,06069,5,148.4,29.68
+NM,New Mexico,Otero,35035,5,148.0,29.6
+FL,Florida,Orange,12095,7,147.3,21.042857142857144
+TX,Texas,Kaufman,48257,1,146.7,146.7
+CO,Colorado,Arapahoe,08005,13,145.7,11.207692307692307
+TX,Texas,Sterling,48431,2,145.0,72.5
+OH,Ohio,Butler,39017,1,144.0,144.0
+LA,Louisiana,Allen,22003,1,142.8,142.8
+NC,North Carolina,Beaufort,37013,10,142.5,14.25
+NC,North Carolina,Wayne,37191,33,140.7,4.263636363636364
+CO,Colorado,Weld,08123,34,140.5,4.132352941176471
+UT,Utah,Emery,49015,2,140.0,70.0
+MO,Missouri,Warren,29219,1,139.0,139.0
+MA,Massachusetts,Bristol,25005,57,138.7,2.433333333333333
+VA,Virginia,Louisa,51109,4,138.3,34.575
+VA,Virginia,Sussex,51183,2,138.0,69.0
+NC,North Carolina,Cleveland,37045,24,137.3,5.720833333333334
+NC,North Carolina,Franklin,37069,11,137.1,12.463636363636363
+IL,Illinois,Stephenson,17177,18,137.0,7.611111111111111
+RI,Rhode Island,Providence,44007,30,136.2,4.54
+TX,Texas,Starr,48427,1,136.0,136.0
+LA,Louisiana,St. Landry,22097,1,135.0,135.0
+OR,Oregon,Klamath,41035,13,134.1,10.315384615384614
+NC,North Carolina,Pender,37141,8,132.3,16.5375
+NC,North Carolina,Anson,37007,8,132.2,16.525
+NC,North Carolina,Stanly,37167,4,131.4,32.85
+GA,Georgia,Bibb,13021,3,131.3,43.76666666666667
+NC,North Carolina,Montgomery,37123,11,130.4,11.854545454545455
+CO,Colorado,Adams,08001,24,128.4,5.3500000000000005
+NC,North Carolina,Wilson,37195,13,128.4,9.876923076923077
+SD,South Dakota,Pennington,46103,1,128.0,128.0
+FL,Florida,Pasco,12101,2,124.6,62.3
+NC,North Carolina,Rutherford,37161,10,122.19999999999999,12.219999999999999
+AR,Arkansas,Woodruff,05147,1,122.0,122.0
+OR,Oregon,Lake,41037,10,121.6,12.16
+WI,Wisconsin,Rock,55105,4,121.5,30.375
+CA,California,Madera,06039,17,120.3,7.076470588235294
+OK,Oklahoma,Kiowa,40075,1,120.0,120.0
+UT,Utah,Millard,49027,3,120.0,40.0
+RI,Rhode Island,Washington,44009,23,117.4,5.104347826086957
+CA,California,San Diego,06073,31,114.5,3.693548387096774
+CT,Connecticut,Capitol,09110,30,113.1,3.77
+NC,North Carolina,Cabarrus,37025,5,111.80000000000001,22.360000000000003
+RI,Rhode Island,Kent,44003,12,111.7,9.308333333333334
+KY,Kentucky,Martin,21159,1,111.0,111.0
+NC,North Carolina,Jones,37103,8,110.60000000000001,13.825000000000001
+IL,Illinois,Jersey,17083,1,110.0,110.0
+TX,Texas,Liberty,48291,1,109.9,109.9
+NY,New York,Monroe,36055,31,108.2,3.490322580645161
+NC,North Carolina,Johnston,37101,30,108.2,3.606666666666667
+NC,North Carolina,Vance,37181,13,107.8,8.292307692307691
+NY,New York,Orange,36071,46,107.4,2.3347826086956522
+OH,Ohio,Fulton,39051,1,107.0,107.0
+GA,Georgia,Clay,13061,1,106.0,106.0
+VA,Virginia,Henry,51089,3,106.0,35.333333333333336
+NJ,New Jersey,Monmouth,34025,22,105.0,4.7727272727272725
+MS,Mississippi,Lamar,28073,2,104.0,52.0
+MA,Massachusetts,Middlesex,25017,40,103.6,2.59
+TX,Texas,Bexar,48029,11,103.1,9.372727272727273
+MD,Maryland,Queen Anne's,24035,7,102.8,14.685714285714285
+NY,New York,St. Lawrence,36089,27,102.4,3.7925925925925927
+AZ,Arizona,Mohave,04015,7,102.30000000000001,14.614285714285716
+NC,North Carolina,Martin,37117,15,102.0,6.8
+NY,New York,Onondaga,36067,26,101.9,3.9192307692307695
+GA,Georgia,Stewart,13259,2,101.0,50.5
+NV,Nevada,Humboldt,32013,1,101.0,101.0
+IL,Illinois,Fayette,17051,2,100.8,50.4
+MS,Mississippi,Carroll,28015,1,100.0,100.0
+MS,Mississippi,DeSoto,28033,1,100.0,100.0
+PA,Pennsylvania,Cambria,42021,1,100.0,100.0
+TX,Texas,Reeves,48389,1,100.0,100.0
+AL,Alabama,Montgomery,01101,1,100.0,100.0
+VA,Virginia,Southampton,51175,1,100.0,100.0
+IA,Iowa,Webster,19187,1,100.0,100.0
+TX,Texas,Hamilton,48193,1,100.0,100.0
+LA,Louisiana,Washington,22117,2,100.0,50.0
+AR,Arkansas,Chicot,05017,1,100.0,100.0
+TN,Tennessee,Obion,47131,1,100.0,100.0
+MS,Mississippi,Madison,28089,1,100.0,100.0
+IA,Iowa,Louisa,19115,1,100.0,100.0
+WI,Wisconsin,Waushara,55137,1,99.0,99.0
+ME,Maine,Franklin,23007,6,98.4,16.400000000000002
+WV,West Virginia,Jefferson,54037,1,96.0,96.0
+VA,Virginia,Campbell,51031,2,95.0,47.5
+MN,Minnesota,Stearns,27145,59,95.0,1.6101694915254237
+VA,Virginia,Gloucester,51073,3,94.8,31.599999999999998
+NM,New Mexico,Luna,35029,5,94.0,18.8
+NC,North Carolina,Lenoir,37107,11,93.9,8.536363636363637
+MN,Minnesota,Goodhue,27049,27,92.4,3.4222222222222225
+IN,Indiana,Marion,18097,18,92.2,5.122222222222223
+WY,Wyoming,Sweetwater,56037,1,92.0,92.0
+SC,South Carolina,Beaufort,45013,4,90.5,22.625
+SC,South Carolina,Jasper,45053,3,89.4,29.8
+NC,North Carolina,Pitt,37147,9,89.0,9.88888888888889
+MA,Massachusetts,Hampshire,25015,30,88.9,2.9633333333333334
+ME,Maine,Somerset,23025,21,88.1,4.1952380952380945
+TN,Tennessee,Madison,47113,3,87.0,29.0
+NC,North Carolina,Columbus,37047,19,86.9,4.5736842105263165
+NC,North Carolina,Yadkin,37197,8,86.3,10.7875
+NC,North Carolina,Surry,37171,6,85.30000000000001,14.216666666666669
+SC,South Carolina,Saluda,45081,3,85.10000000000001,28.36666666666667
+GA,Georgia,Ware,13299,3,84.9,28.3
+NC,North Carolina,Richmond,37153,9,84.6,9.399999999999999
+OR,Oregon,Clackamas,41005,27,84.5,3.1296296296296298
+VA,Virginia,Accomack,51001,2,84.0,42.0
+WI,Wisconsin,Jefferson,55055,4,83.3,20.825
+TX,Texas,Bosque,48035,3,81.4,27.133333333333336
+NE,Nebraska,Saunders,31155,1,81.0,81.0
+GA,Georgia,Montgomery,13209,1,80.0,80.0
+UT,Utah,Carbon,49007,1,80.0,80.0
+MT,Montana,Yellowstone,30111,1,80.0,80.0
+UT,Utah,Juab,49023,1,80.0,80.0
+GA,Georgia,Macon,13193,1,80.0,80.0
+MT,Montana,Beaverhead,30001,1,80.0,80.0
+WA,Washington,Yakima,53077,1,80.0,80.0
+SD,South Dakota,Fall River,46047,1,80.0,80.0
+GA,Georgia,Warren,13301,1,80.0,80.0
+HI,Hawaii,Kauai,15007,7,80.0,11.428571428571429
+UT,Utah,Sevier,49041,1,80.0,80.0
+GA,Georgia,Calhoun,13037,1,80.0,80.0
+AL,Alabama,Covington,01039,1,80.0,80.0
+FL,Florida,Taylor,12123,2,80.0,40.0
+PA,Pennsylvania,Adams,42001,1,80.0,80.0
+MD,Maryland,Somerset,24039,3,79.8,26.599999999999998
+MN,Minnesota,Lyon,27083,9,79.3,8.81111111111111
+AL,Alabama,Chambers,01017,1,79.2,79.2
+SC,South Carolina,Hampton,45049,7,79.2,11.314285714285715
+FL,Florida,Lake,12069,3,78.9,26.3
+MS,Mississippi,Clarke,28023,1,78.5,78.5
+MS,Mississippi,Hancock,28045,1,78.5,78.5
+SC,South Carolina,Allendale,45005,2,78.2,39.1
+CT,Connecticut,Northeastern Connecticut,09150,8,78.1,9.7625
+GA,Georgia,Terrell,13273,3,77.6,25.866666666666664
+SC,South Carolina,Chesterfield,45025,2,77.0,38.5
+VA,Virginia,Frederick,51069,2,76.4,38.2
+ME,Maine,York,23031,7,76.39999999999999,10.914285714285713
+ME,Maine,Aroostook,23003,22,75.7,3.440909090909091
+MA,Massachusetts,Berkshire,25003,29,75.5,2.603448275862069
+CA,California,Contra Costa,06013,11,75.2,6.836363636363637
+AL,Alabama,Lauderdale,01077,1,75.0,75.0
+NJ,New Jersey,Mercer,34021,23,75.0,3.260869565217391
+NC,North Carolina,Union,37179,5,74.9,14.98
+FL,Florida,Citrus,12017,1,74.9,74.9
+FL,Florida,Levy,12075,1,74.9,74.9
+SC,South Carolina,Aiken,45003,1,74.9,74.9
+FL,Florida,Nassau,12089,1,74.5,74.5
+FL,Florida,Collier,12021,1,74.5,74.5
+FL,Florida,St. Johns,12109,1,74.5,74.5
+FL,Florida,Union,12125,1,74.5,74.5
+NY,New York,Oneida,36065,22,73.7,3.35
+SC,South Carolina,Richland,45079,1,73.6,73.6
+NJ,New Jersey,Hunterdon,34019,14,73.5,5.25
+NY,New York,Schenectady,36093,17,73.0,4.294117647058823
+NV,Nevada,Churchill,32001,6,72.9,12.15
+IL,Illinois,Randolph,17157,3,72.4,24.133333333333336
+UT,Utah,San Juan,49037,1,72.0,72.0
+CT,Connecticut,Southeastern Connecticut,09180,18,71.8,3.988888888888889
+NY,New York,Tioga,36107,13,70.8,5.446153846153846
+MN,Minnesota,Wright,27171,30,70.4,2.3466666666666667
+IL,Illinois,Logan,17107,1,70.0,70.0
+TX,Texas,Hunt,48231,3,70.0,23.333333333333332
+PA,Pennsylvania,Fulton,42057,1,70.0,70.0
+CA,California,Santa Barbara,06083,4,68.7,17.175
+NY,New York,Erie,36029,20,68.4,3.4200000000000004
+NJ,New Jersey,Ocean,34029,11,68.3,6.209090909090909
+GA,Georgia,Houston,13153,1,68.0,68.0
+NY,New York,Albany,36001,18,67.5,3.75
+NY,New York,Saratoga,36091,16,67.2,4.2
+MN,Minnesota,Dakota,27037,50,66.7,1.334
+WI,Wisconsin,Dane,55025,9,66.6,7.3999999999999995
+HI,Hawaii,Maui,15009,3,65.8,21.933333333333334
+TX,Texas,Cooke,48097,2,64.2,32.1
+NM,New Mexico,Cibola,35006,4,64.0,16.0
+NY,New York,Fulton,36035,18,63.3,3.5166666666666666
+PA,Pennsylvania,York,42133,4,62.6,15.65
+MA,Massachusetts,Norfolk,25021,22,62.5,2.840909090909091
+MD,Maryland,Washington,24043,14,62.2,4.442857142857143
+FL,Florida,Leon,12073,2,62.0,31.0
+OR,Oregon,Malheur,41045,10,61.5,6.15
+NY,New York,Washington,36115,8,61.5,7.6875
+NJ,New Jersey,Warren,34041,10,60.900000000000006,6.090000000000001
+MA,Massachusetts,Franklin,25011,23,60.4,2.626086956521739
+VA,Virginia,Powhatan,51145,4,60.0,15.0
+ID,Idaho,Ada,16001,2,60.0,30.0
+NC,North Carolina,Randolph,37151,17,59.4,3.4941176470588236
+NY,New York,Tompkins,36109,14,59.1,4.2214285714285715
+TX,Texas,Van Zandt,48467,1,59.0,59.0
+NC,North Carolina,Stokes,37169,3,58.9,19.633333333333333
+SC,South Carolina,Horry,45051,3,58.6,19.533333333333335
+MD,Maryland,Baltimore,24005,34,58.6,1.723529411764706
+CO,Colorado,Larimer,08069,5,58.4,11.68
+GA,Georgia,Lowndes,13185,6,58.3,9.716666666666667
+NY,New York,Niagara,36063,13,57.7,4.438461538461539
+UT,Utah,Rich,49033,1,57.6,57.6
+MS,Mississippi,Lauderdale,28075,2,57.5,28.75
+DE,Delaware,New Castle,10003,6,57.1,9.516666666666667
+NC,North Carolina,Gaston,37071,6,56.3,9.383333333333333
+MD,Maryland,Harford,24025,15,56.2,3.746666666666667
+MA,Massachusetts,Essex,25009,21,55.9,2.6619047619047618
+VA,Virginia,Westmoreland,51193,4,55.9,13.975
+TN,Tennessee,McNairy,47109,4,55.6,13.9
+NY,New York,Jefferson,36045,14,55.6,3.9714285714285715
+TN,Tennessee,Shelby,47157,3,55.6,18.533333333333335
+OR,Oregon,Marion,41047,25,55.6,2.224
+NJ,New Jersey,Camden,34007,17,55.5,3.264705882352941
+PA,Pennsylvania,Beaver,42007,4,55.5,13.875
+IL,Illinois,Williamson,17199,7,55.5,7.928571428571429
+NM,New Mexico,Rio Arriba,35039,4,55.300000000000004,13.825000000000001
+AZ,Arizona,Navajo,04017,2,55.3,27.65
+KY,Kentucky,Metcalfe,21169,1,55.0,55.0
+OH,Ohio,Paulding,39125,2,53.9,26.95
+VA,Virginia,Suffolk,51800,4,53.8,13.45
+NM,New Mexico,Torrance,35057,2,52.0,26.0
+NY,New York,Schoharie,36095,2,52.0,26.0
+MN,Minnesota,Fillmore,27045,4,52.0,13.0
+NY,New York,Cortland,36023,8,52.0,6.5
+IN,Indiana,Spencer,18147,2,51.5,25.75
+NC,North Carolina,Rowan,37159,12,51.3,4.2749999999999995
+NJ,New Jersey,Somerset,34035,19,51.3,2.6999999999999997
+NC,North Carolina,Perquimans,37143,8,51.2,6.4
+GA,Georgia,Candler,13043,1,51.0,51.0
+MD,Maryland,Prince George's,24033,26,50.8,1.9538461538461538
+MI,Michigan,Ingham,26065,3,50.5,16.833333333333332
+NJ,New Jersey,Gloucester,34015,15,50.199999999999996,3.3466666666666662
+MS,Mississippi,Forrest,28035,1,50.0,50.0
+NV,Nevada,Mineral,32021,1,50.0,50.0
+WI,Wisconsin,Richland,55103,1,50.0,50.0
+KY,Kentucky,Garrard,21079,1,50.0,50.0
+TX,Texas,Brewster,48043,1,50.0,50.0
+WI,Wisconsin,Green,55045,1,50.0,50.0
+MN,Minnesota,Mower,27099,1,50.0,50.0
+OR,Oregon,Morrow,41049,1,50.0,50.0
+IA,Iowa,Union,19175,1,50.0,50.0
+LA,Louisiana,West Baton Rouge,22121,1,50.0,50.0
+MN,Minnesota,Otter Tail,27111,1,49.9,49.9
+OH,Ohio,Putnam,39137,1,49.9,49.9
+NC,North Carolina,Sampson,37163,13,49.2,3.784615384615385
+ME,Maine,Androscoggin,23001,8,49.1,6.1375
+NC,North Carolina,Harnett,37085,11,49.1,4.463636363636364
+MI,Michigan,Lapeer,26087,2,48.0,24.0
+IN,Indiana,Wayne,18177,9,47.9,5.322222222222222
+AZ,Arizona,Yavapai,04025,4,47.7,11.925
+NY,New York,Oswego,36075,14,47.4,3.3857142857142857
+NJ,New Jersey,Cumberland,34011,17,47.3,2.7823529411764705
+MA,Massachusetts,Barnstable,25001,16,46.6,2.9125
+MD,Maryland,Frederick,24021,7,45.699999999999996,6.528571428571428
+NJ,New Jersey,Morris,34027,14,45.6,3.257142857142857
+NM,New Mexico,Lea,35025,5,45.1,9.02
+NC,North Carolina,Bertie,37015,6,45.0,7.5
+ME,Maine,Penobscot,23019,11,45.0,4.090909090909091
+FL,Florida,Highlands,12055,1,45.0,45.0
+MI,Michigan,Jackson,26075,3,45.0,15.0
+NY,New York,Cattaraugus,36009,11,44.5,4.045454545454546
+NC,North Carolina,Moore,37125,10,44.2,4.42
+NY,New York,Ulster,36111,17,44.2,2.6
+NM,New Mexico,Doña Ana,35013,5,43.9,8.78
+MD,Maryland,Charles,24017,3,43.3,14.433333333333332
+NY,New York,Chenango,36017,6,43.3,7.216666666666666
+NC,North Carolina,Pasquotank,37139,3,43.1,14.366666666666667
+MN,Minnesota,Washington,27163,25,42.9,1.716
+NC,North Carolina,Granville,37077,9,42.7,4.7444444444444445
+NY,New York,Genesee,36037,14,42.6,3.042857142857143
+NC,North Carolina,Chatham,37037,11,42.6,3.872727272727273
+NJ,New Jersey,Cape May,34009,3,42.5,14.166666666666666
+NY,New York,Allegany,36003,10,42.5,4.25
+IN,Indiana,Madison,18095,8,42.4,5.3
+AL,Alabama,Madison,01089,2,42.4,21.2
+NY,New York,Cayuga,36011,10,42.2,4.220000000000001
+MI,Michigan,Lenawee,26091,3,42.0,14.0
+ME,Maine,Cumberland,23005,9,41.8,4.644444444444444
+NY,New York,Dutchess,36027,17,41.6,2.447058823529412
+NC,North Carolina,Onslow,37133,8,41.0,5.125
+SC,South Carolina,Barnwell,45011,5,41.0,8.2
+MN,Minnesota,Rice,27131,20,40.5,2.025
+NC,North Carolina,Davie,37059,6,40.4,6.733333333333333
+NM,New Mexico,Colfax,35007,4,40.1,10.025
+PA,Pennsylvania,Clearfield,42033,2,40.0,20.0
+ID,Idaho,Power,16077,2,40.0,20.0
+GA,Georgia,Elbert,13105,1,40.0,40.0
+OR,Oregon,Harney,41025,4,39.9,9.975
+VA,Virginia,James City,51095,2,39.9,19.95
+NY,New York,Ontario,36069,15,39.9,2.6599999999999997
+VA,Virginia,Buckingham,51029,2,39.8,19.9
+OR,Oregon,Deschutes,41017,4,39.7,9.925
+NC,North Carolina,Craven,37049,8,38.5,4.8125
+MN,Minnesota,Carver,27019,25,38.4,1.536
+FL,Florida,Duval,12031,7,38.1,5.442857142857143
+GA,Georgia,Oglethorpe,13221,1,38.0,38.0
+NY,New York,Chautauqua,36013,10,37.8,3.78
+GA,Georgia,Richmond,13245,4,37.8,9.45
+RI,Rhode Island,Newport,44005,8,37.7,4.7125
+SC,South Carolina,Spartanburg,45083,9,37.6,4.177777777777778
+NY,New York,Rensselaer,36083,10,37.0,3.7
+NC,North Carolina,Rockingham,37157,8,36.9,4.6125
+NY,New York,Columbia,36021,8,36.8,4.6
+NC,North Carolina,Lee,37105,8,36.8,4.6
+GA,Georgia,Walton,13297,4,36.5,9.125
+CO,Colorado,Denver,08031,10,35.9,3.59
+NC,North Carolina,Camden,37029,4,35.0,8.75
+TN,Tennessee,Bedford,47003,1,35.0,35.0
+IL,Illinois,Warren,17187,1,35.0,35.0
+MN,Minnesota,Dodge,27039,25,34.5,1.38
+ME,Maine,Oxford,23017,7,34.1,4.871428571428572
+VT,Vermont,Chittenden,50007,13,33.5,2.576923076923077
+CA,California,Orange,06059,10,33.5,3.35
+VA,Virginia,Rockingham,51165,2,33.5,16.75
+NJ,New Jersey,Sussex,34037,7,33.4,4.771428571428571
+TN,Tennessee,Fayette,47047,3,33.3,11.1
+MN,Minnesota,Blue Earth,27013,26,33.0,1.2692307692307692
+CA,California,Santa Clara,06085,10,32.9,3.29
+NJ,New Jersey,Atlantic,34001,13,32.8,2.523076923076923
+AZ,Arizona,La Paz,04012,1,32.5,32.5
+MN,Minnesota,Le Sueur,27079,19,32.5,1.7105263157894737
+NJ,New Jersey,Union,34039,18,32.4,1.7999999999999998
+GA,Georgia,Effingham,13103,3,32.0,10.666666666666666
+NY,New York,Clinton,36019,10,31.8,3.18
+OR,Oregon,Yamhill,41071,13,31.700000000000003,2.4384615384615387
+NY,New York,Sullivan,36105,14,31.5,2.25
+IL,Illinois,Will,17197,15,31.3,2.086666666666667
+NC,North Carolina,Alamance,37001,8,31.2,3.9
+NM,New Mexico,Eddy,35015,2,30.1,15.05
+SC,South Carolina,Darlington,45031,12,30.1,2.5083333333333333
+IL,Illinois,LaSalle,17099,6,30.0,5.0
+AL,Alabama,Russell,01113,1,30.0,30.0
+VA,Virginia,King William,51101,2,30.0,15.0
+GA,Georgia,Camden,13039,1,30.0,30.0
+GA,Georgia,Liberty,13179,1,30.0,30.0
+HI,Hawaii,Hawaii,15001,1,30.0,30.0
+MD,Maryland,Howard,24027,16,29.4,1.8375
+VT,Vermont,Windsor,50027,4,28.6,7.15
+NY,New York,Yates,36123,6,28.6,4.766666666666667
+PA,Pennsylvania,Fayette,42051,2,28.0,14.0
+IN,Indiana,Montgomery,18107,5,27.8,5.5600000000000005
+CA,California,Solano,06095,11,27.7,2.518181818181818
+IL,Illinois,McHenry,17111,15,27.4,1.8266666666666667
+NJ,New Jersey,Essex,34013,11,27.4,2.4909090909090907
+NY,New York,Madison,36053,7,27.1,3.8714285714285714
+NY,New York,Steuben,36101,6,27.0,4.5
+MD,Maryland,Dorchester,24019,4,26.7,6.675
+NM,New Mexico,San Miguel,35047,4,26.5,6.625
+DC,District of Columbia,District of Columbia,11001,12,26.1,2.1750000000000003
+MN,Minnesota,Waseca,27161,17,26.0,1.5294117647058822
+IL,Illinois,Whiteside,17195,12,26.0,2.1666666666666665
+CA,California,Yolo,06113,9,25.8,2.8666666666666667
+NC,North Carolina,Guilford,37081,7,25.7,3.6714285714285713
+CO,Colorado,Garfield,08045,9,25.7,2.8555555555555556
+DE,Delaware,Kent,10001,5,25.7,5.14
+CA,California,San Joaquin,06077,13,25.2,1.9384615384615385
+IL,Illinois,Kankakee,17091,13,25.2,1.9384615384615385
+MN,Minnesota,McLeod,27085,20,25.0,1.25
+NM,New Mexico,Quay,35037,1,25.0,25.0
+IA,Iowa,Adair,19001,1,25.0,25.0
+SC,South Carolina,Florence,45041,9,25.0,2.7777777777777777
+GA,Georgia,Appling,13001,1,25.0,25.0
+VA,Virginia,Hanover,51085,1,25.0,25.0
+NC,North Carolina,Wake,37183,7,24.6,3.5142857142857147
+LA,Louisiana,Orleans,22071,4,24.5,6.125
+OH,Ohio,Wood,39173,3,24.5,8.166666666666666
+ME,Maine,Piscataquis,23021,2,24.5,12.25
+MO,Missouri,Jackson,29095,5,24.5,4.9
+PA,Pennsylvania,Berks,42011,3,24.2,8.066666666666666
+IL,Illinois,Champaign,17019,7,24.1,3.442857142857143
+SC,South Carolina,Lee,45061,8,24.0,3.0
+NY,New York,Orleans,36073,6,24.0,4.0
+MN,Minnesota,Pope,27121,18,24.0,1.3333333333333333
+MI,Michigan,Eaton,26045,2,24.0,12.0
+IL,Illinois,Cook,17031,10,23.900000000000002,2.39
+ME,Maine,Hancock,23009,5,23.8,4.76
+OR,Oregon,Jackson,41029,4,23.6,5.9
+MN,Minnesota,Steele,27147,17,23.4,1.3764705882352941
+NJ,New Jersey,Hudson,34017,15,23.3,1.5533333333333335
+MI,Michigan,Branch,26023,3,23.3,7.766666666666667
+PA,Pennsylvania,Snyder,42109,2,23.0,11.5
+OR,Oregon,Jefferson,41031,3,22.9,7.633333333333333
+NC,North Carolina,Caswell,37033,5,22.9,4.58
+MI,Michigan,Genesee,26049,6,22.5,3.75
+NY,New York,Essex,36031,5,22.5,4.5
+NC,North Carolina,Person,37145,7,22.5,3.2142857142857144
+CT,Connecticut,South Central Connecticut,09170,6,22.3,3.716666666666667
+VA,Virginia,Prince William,51153,2,22.0,11.0
+IL,Illinois,DeKalb,17037,11,22.0,2.0
+IL,Illinois,Putnam,17155,2,22.0,11.0
+NM,New Mexico,Taos,35055,5,22.0,4.4
+IL,Illinois,Winnebago,17201,11,21.6,1.9636363636363638
+MD,Maryland,Montgomery,24031,11,21.5,1.9545454545454546
+GA,Georgia,Colquitt,13071,2,21.4,10.7
+NY,New York,Greene,36039,6,21.2,3.533333333333333
+MN,Minnesota,Olmsted,27109,9,21.0,2.3333333333333335
+VT,Vermont,Rutland,50021,10,20.4,2.04
+TX,Texas,Grayson,48181,4,20.3,5.075
+PA,Pennsylvania,Carbon,42025,2,20.1,10.05
+MI,Michigan,Gladwin,26051,1,20.0,20.0
+VA,Virginia,Henrico,51087,1,20.0,20.0
+MN,Minnesota,Renville,27129,20,20.0,1.0
+MI,Michigan,Allegan,26005,1,20.0,20.0
+PA,Pennsylvania,Juniata,42067,1,20.0,20.0
+NC,North Carolina,Chowan,37041,4,20.0,5.0
+SC,South Carolina,Williamsburg,45089,2,20.0,10.0
+MI,Michigan,Muskegon,26121,1,20.0,20.0
+LA,Louisiana,St. James,22093,1,20.0,20.0
+NJ,New Jersey,Salem,34033,2,20.0,10.0
+VA,Virginia,New Kent,51127,1,20.0,20.0
+PA,Pennsylvania,Northumberland,42097,1,20.0,20.0
+MI,Michigan,Clinton,26037,1,20.0,20.0
+VA,Virginia,Fauquier,51061,1,20.0,20.0
+VA,Virginia,Essex,51057,1,20.0,20.0
+VA,Virginia,Wythe,51197,1,20.0,20.0
+ID,Idaho,Owyhee,16073,1,20.0,20.0
+MI,Michigan,Monroe,26115,1,20.0,20.0
+MN,Minnesota,Benton,27009,20,20.0,1.0
+WV,West Virginia,Hampshire,54027,1,20.0,20.0
+VA,Virginia,Northampton,51131,1,20.0,20.0
+KS,Kansas,Stanton,20187,1,20.0,20.0
+NC,North Carolina,Greene,37079,5,19.9,3.9799999999999995
+NV,Nevada,Lyon,32019,1,19.9,19.9
+NC,North Carolina,Hoke,37093,4,19.8,4.95
+MD,Maryland,Allegany,24001,1,19.8,19.8
+GA,Georgia,Jenkins,13165,1,19.7,19.7
+WI,Wisconsin,Ozaukee,55089,1,19.5,19.5
+WA,Washington,Adams,53001,1,19.2,19.2
+CO,Colorado,Logan,08075,9,19.1,2.1222222222222222
+VT,Vermont,Addison,50001,5,19.1,3.8200000000000003
+MN,Minnesota,Chippewa,27023,19,19.0,1.0
+WV,West Virginia,Monongalia,54061,1,18.9,18.9
+VA,Virginia,Shenandoah,51171,2,18.9,9.45
+ME,Maine,Waldo,23027,4,18.8,4.7
+MN,Minnesota,Winona,27169,13,18.8,1.4461538461538461
+MD,Maryland,Wicomico,24045,4,18.6,4.65
+TN,Tennessee,Hardeman,47069,2,18.3,9.15
+CA,California,Ventura,06111,7,18.1,2.585714285714286
+MN,Minnesota,Kandiyohi,27067,15,18.0,1.2
+MD,Maryland,Anne Arundel,24003,5,18.0,3.6
+GA,Georgia,Glynn,13127,1,18.0,18.0
+CT,Connecticut,Northwest Hills,09160,8,18.0,2.25
+NY,New York,Wayne,36117,9,17.9,1.9888888888888887
+OR,Oregon,Baker,41001,2,17.8,8.9
+CA,California,Sonoma,06097,12,17.7,1.4749999999999999
+VA,Virginia,Virginia Beach,51810,1,17.6,17.6
+OH,Ohio,Auglaize,39011,3,17.5,5.833333333333333
+AR,Arkansas,Washington,05143,6,17.3,2.8833333333333333
+NY,New York,Chemung,36015,7,17.3,2.4714285714285715
+PA,Pennsylvania,Westmoreland,42129,2,17.1,8.55
+MD,Maryland,Baltimore,24510,12,17.0,1.4166666666666667
+IN,Indiana,Martin,18101,1,17.0,17.0
+TX,Texas,El Paso,48141,4,17.0,4.25
+NC,North Carolina,Durham,37063,4,16.5,4.125
+MD,Maryland,Carroll,24013,3,16.2,5.3999999999999995
+IN,Indiana,Cass,18017,1,16.0,16.0
+MN,Minnesota,Isanti,27059,3,15.899999999999999,5.3
+IL,Illinois,St. Clair,17163,4,15.700000000000001,3.9250000000000003
+VA,Virginia,Appomattox,51011,1,15.7,15.7
+RI,Rhode Island,Bristol,44001,4,15.7,3.925
+IN,Indiana,Miami,18103,3,15.4,5.133333333333334
+TX,Texas,Coryell,48099,1,15.4,15.4
+MN,Minnesota,Cass,27021,1,15.2,15.2
+MI,Michigan,St. Joseph,26149,1,15.0,15.0
+PA,Pennsylvania,Somerset,42111,1,15.0,15.0
+SC,South Carolina,Dillon,45033,2,15.0,7.5
+PA,Pennsylvania,Centre,42027,2,15.0,7.5
+WA,Washington,Kittitas,53037,3,15.0,5.0
+VA,Virginia,Middlesex,51119,1,15.0,15.0
+NC,North Carolina,Gates,37073,3,15.0,5.0
+WI,Wisconsin,Racine,55101,4,14.8,3.7
+OR,Oregon,Polk,41053,6,14.7,2.4499999999999997
+AL,Alabama,Limestone,01083,1,14.7,14.7
+NY,New York,Schuyler,36097,4,14.6,3.65
+GA,Georgia,Bulloch,13031,5,14.6,2.92
+OH,Ohio,Miami,39109,2,14.4,7.2
+MN,Minnesota,Redwood,27127,14,14.4,1.0285714285714287
+MN,Minnesota,Nicollet,27103,14,14.0,1.0
+DE,Delaware,Sussex,10005,5,14.0,2.8
+NY,New York,Wyoming,36121,5,14.0,2.8
+AR,Arkansas,Calhoun,05013,2,14.0,7.0
+IN,Indiana,Daviess,18027,2,13.9,6.95
+NY,New York,Westchester,36119,9,13.9,1.5444444444444445
+VA,Virginia,Charlotte,51037,1,13.8,13.8
+WI,Wisconsin,Walworth,55127,2,13.5,6.75
+AZ,Arizona,Apache,04001,3,13.4,4.466666666666667
+TN,Tennessee,Washington,47179,2,13.4,6.7
+VA,Virginia,Albemarle,51003,1,13.3,13.3
+MS,Mississippi,Panola,28107,3,13.1,4.366666666666666
+KY,Kentucky,Mercer,21167,1,13.0,13.0
+MN,Minnesota,Pipestone,27117,13,13.0,1.0
+NY,New York,Herkimer,36043,4,13.0,3.25
+MN,Minnesota,Wabasha,27157,11,13.0,1.1818181818181819
+NC,North Carolina,Orange,37135,3,13.0,4.333333333333333
+SC,South Carolina,Fairfield,45039,1,12.8,12.8
+NY,New York,Broome,36007,4,12.7,3.175
+AR,Arkansas,Pulaski,05119,4,12.6,3.15
+ME,Maine,Lincoln,23015,3,12.5,4.166666666666667
+UT,Utah,Uintah,49047,1,12.5,12.5
+MN,Minnesota,Hennepin,27053,11,12.3,1.1181818181818182
+NC,North Carolina,Caldwell,37027,2,12.1,6.05
+NY,New York,Lewis,36049,4,12.1,3.025
+IN,Indiana,DeKalb,18033,2,12.0,6.0
+VT,Vermont,Orange,50017,3,12.0,4.0
+WI,Wisconsin,Fond du Lac,55039,4,12.0,3.0
+NC,North Carolina,Burke,37023,3,11.9,3.966666666666667
+WI,Wisconsin,Columbia,55021,1,11.8,11.8
+CO,Colorado,Boulder,08013,4,11.7,2.925
+SC,South Carolina,Marlboro,45069,2,11.7,5.85
+WI,Wisconsin,Washington,55131,3,11.7,3.9
+PA,Pennsylvania,Lancaster,42071,4,11.6,2.9
+OH,Ohio,Henry,39069,2,11.5,5.75
+MD,Maryland,Kent,24029,5,11.5,2.3
+OH,Ohio,Wyandot,39175,2,11.3,5.65
+TX,Texas,Austin,48015,2,11.2,5.6
+AR,Arkansas,Craighead,05031,2,11.0,5.5
+SC,South Carolina,Anderson,45007,6,11.0,1.8333333333333333
+OK,Oklahoma,Caddo,40015,3,11.0,3.6666666666666665
+NC,North Carolina,Alexander,37003,3,11.0,3.6666666666666665
+MN,Minnesota,Morrison,27097,1,10.9,10.9
+SC,South Carolina,Marion,45067,3,10.9,3.6333333333333333
+GA,Georgia,Peach,13225,1,10.8,10.8
+ME,Maine,Sagadahoc,23023,3,10.6,3.533333333333333
+AL,Alabama,Dale,01045,1,10.6,10.6
+CT,Connecticut,Naugatuck Valley,09140,5,10.4,2.08
+GA,Georgia,Polk,13233,4,10.2,2.55
+CA,California,Alameda,06001,6,10.2,1.7
+NC,North Carolina,Buncombe,37021,3,10.1,3.3666666666666667
+CA,California,Lassen,06035,2,10.1,5.05
+MN,Minnesota,Scott,27139,7,10.1,1.4428571428571428
+OK,Oklahoma,Bryan,40013,2,10.0,5.0
+NC,North Carolina,Lincoln,37109,2,10.0,5.0
+OK,Oklahoma,Garfield,40047,1,10.0,10.0
+MO,Missouri,Boone,29019,1,10.0,10.0
+OR,Oregon,Sherman,41055,1,10.0,10.0
+WI,Wisconsin,Juneau,55057,5,10.0,2.0
+WI,Wisconsin,Chippewa,55017,4,10.0,2.5
+TX,Texas,Howard,48227,1,10.0,10.0
+TX,Texas,Brooks,48047,1,10.0,10.0
+NC,North Carolina,Pamlico,37137,2,10.0,5.0
+VA,Virginia,Fluvanna,51065,2,10.0,5.0
+VA,Virginia,Amelia,51007,2,10.0,5.0
+MI,Michigan,Oscoda,26135,1,10.0,10.0
+TX,Texas,Presidio,48377,1,10.0,10.0
+TX,Texas,Karnes,48255,1,10.0,10.0
+IL,Illinois,Clinton,17027,5,10.0,2.0
+VA,Virginia,Clarke,51043,1,10.0,10.0
+NC,North Carolina,Brunswick,37019,2,9.9,4.95
+TX,Texas,Erath,48143,1,9.9,9.9
+NE,Nebraska,Hall,31079,1,9.9,9.9
+NC,North Carolina,Iredell,37097,2,9.9,4.95
+ME,Maine,Washington,23029,2,9.8,4.9
+TN,Tennessee,Hamilton,47065,3,9.6,3.1999999999999997
+MD,Maryland,Worcester,24047,3,9.6,3.1999999999999997
+TN,Tennessee,Greene,47059,2,9.6,4.8
+NJ,New Jersey,Bergen,34003,5,9.6,1.92
+IL,Illinois,Ogle,17141,5,9.5,1.9
+AR,Arkansas,Logan,05083,3,9.5,3.1666666666666665
+NM,New Mexico,Santa Fe,35049,1,9.5,9.5
+ME,Maine,Knox,23013,3,9.5,3.1666666666666665
+WI,Wisconsin,Barron,55005,3,9.3,3.1
+VT,Vermont,Franklin,50011,3,9.2,3.0666666666666664
+MD,Maryland,Garrett,24023,5,9.2,1.8399999999999999
+CO,Colorado,Montezuma,08083,3,9.2,3.0666666666666664
+IN,Indiana,Clay,18021,2,9.2,4.6
+IL,Illinois,Livingston,17105,3,9.0,3.0
+NY,New York,Seneca,36099,3,9.0,3.0
+NC,North Carolina,Davidson,37057,3,9.0,3.0
+OH,Ohio,Medina,39103,2,8.9,4.45
+CO,Colorado,Montrose,08085,2,8.8,4.4
+VT,Vermont,Windham,50025,3,8.8,2.9333333333333336
+MD,Maryland,Cecil,24015,5,8.7,1.7399999999999998
+GA,Georgia,Meriwether,13199,4,8.7,2.175
+CA,California,Butte,06007,4,8.7,2.175
+KY,Kentucky,Clark,21049,1,8.5,8.5
+NE,Nebraska,Madison,31119,1,8.5,8.5
+CA,California,Tehama,06103,1,8.4,8.4
+WI,Wisconsin,Marquette,55077,1,8.3,8.3
+CO,Colorado,Mesa,08077,5,8.1,1.6199999999999999
+IL,Illinois,Knox,17095,4,8.0,2.0
+MO,Missouri,Howell,29091,1,8.0,8.0
+IL,Illinois,Peoria,17143,4,8.0,2.0
+SC,South Carolina,Clarendon,45027,4,8.0,2.0
+IL,Illinois,McDonough,17109,4,8.0,2.0
+MN,Minnesota,Douglas,27041,4,8.0,2.0
+MO,Missouri,Christian,29043,1,7.9,7.9
+VA,Virginia,Augusta,51015,2,7.9,3.95
+GA,Georgia,Tift,13277,3,7.8,2.6
+TX,Texas,Collin,48085,1,7.7,7.7
+OH,Ohio,Lucas,39095,4,7.7,1.925
+NY,New York,Richmond,36085,3,7.6000000000000005,2.5333333333333337
+GA,Georgia,Whitfield,13313,2,7.6,3.8
+PA,Pennsylvania,Northampton,42095,4,7.6,1.9
+IL,Illinois,Vermilion,17183,4,7.6,1.9
+CA,California,Napa,06055,7,7.5,1.0714285714285714
+TX,Texas,Menard,48327,1,7.5,7.5
+VA,Virginia,Rockbridge,51163,2,7.5,3.75
+WI,Wisconsin,Oneida,55085,1,7.5,7.5
+WI,Wisconsin,Shawano,55115,1,7.5,7.5
+SC,South Carolina,Greenwood,45047,4,7.5,1.875
+AL,Alabama,Calhoun,01015,1,7.4,7.4
+MN,Minnesota,Sibley,27143,5,7.3,1.46
+NY,New York,Delaware,36025,2,7.3,3.65
+IL,Illinois,Kane,17089,4,7.3,1.825
+AR,Arkansas,Johnson,05071,2,7.2,3.6
+NY,New York,Franklin,36033,3,7.2,2.4
+TN,Tennessee,Haywood,47075,2,7.2,3.6
+MN,Minnesota,St. Louis,27137,2,7.199999999999999,3.5999999999999996
+IN,Indiana,Scott,18143,1,7.1,7.1
+IN,Indiana,Hendricks,18063,1,7.0,7.0
+IA,Iowa,Franklin,19069,1,7.0,7.0
+NC,North Carolina,Henderson,37089,3,7.0,2.3333333333333335
+CA,California,Inyo,06027,3,7.0,2.3333333333333335
+VA,Virginia,Prince Edward,51147,2,7.0,3.5
+KS,Kansas,Pratt,20151,2,7.0,3.5
+WI,Wisconsin,Jackson,55053,3,7.0,2.3333333333333335
+TX,Texas,Wilson,48493,7,7.0,1.0
+AR,Arkansas,Lincoln,05079,3,6.9,2.3000000000000003
+NV,Nevada,Storey,32029,5,6.9,1.3800000000000001
+NY,New York,Warren,36113,2,6.9,3.45
+MI,Michigan,Chippewa,26033,1,6.9,6.9
+TN,Tennessee,Henry,47079,1,6.8,6.8
+IN,Indiana,Marshall,18099,1,6.8,6.8
+TN,Tennessee,Montgomery,47125,2,6.8,3.4
+IN,Indiana,Grant,18053,3,6.8,2.2666666666666666
+MN,Minnesota,Murray,27101,6,6.7,1.1166666666666667
+NC,North Carolina,Forsyth,37067,2,6.7,3.35
+GA,Georgia,Putnam,13237,3,6.6,2.1999999999999997
+CO,Colorado,Morgan,08087,4,6.5,1.625
+NE,Nebraska,Dawson,31047,3,6.5,2.1666666666666665
+IN,Indiana,Greene,18055,2,6.5,3.25
+IN,Indiana,Lake,18089,4,6.5,1.625
+VA,Virginia,Lancaster,51103,2,6.5,3.25
+IL,Illinois,Christian,17021,2,6.5,3.25
+KY,Kentucky,Kenton,21117,4,6.4,1.6
+MT,Montana,Lewis and Clark,30049,2,6.0,3.0
+VT,Vermont,Caledonia,50005,3,6.0,2.0
+KY,Kentucky,Simpson,21213,2,6.0,3.0
+OR,Oregon,Umatilla,41059,1,6.0,6.0
+PA,Pennsylvania,Cumberland,42041,2,6.0,3.0
+AZ,Arizona,Santa Cruz,04023,1,6.0,6.0
+SC,South Carolina,Bamberg,45009,1,6.0,6.0
+AR,Arkansas,Clark,05019,2,6.0,3.0
+WI,Wisconsin,Langlade,55067,1,6.0,6.0
+SC,South Carolina,Berkeley,45015,1,6.0,6.0
+MN,Minnesota,Clay,27027,6,6.0,1.0
+AR,Arkansas,Franklin,05047,2,6.0,3.0
+MI,Michigan,Saginaw,26145,3,6.0,2.0
+MN,Minnesota,Yellow Medicine,27173,2,6.0,3.0
+MI,Michigan,Missaukee,26113,3,6.0,2.0
+IL,Illinois,McLean,17113,3,6.0,2.0
+AK,Alaska,Matanuska-Susitna,02170,1,6.0,6.0
+MN,Minnesota,Crow Wing,27035,1,5.8,5.8
+CA,California,El Dorado,06017,4,5.8,1.45
+NE,Nebraska,Buffalo,31019,1,5.8,5.8
+WI,Wisconsin,Milwaukee,55079,3,5.8,1.9333333333333333
+MO,Missouri,Montgomery,29139,1,5.7,5.7
+WV,West Virginia,Marion,54049,1,5.5,5.5
+CT,Connecticut,Lower Connecticut River Valley,09130,4,5.5,1.375
+IN,Indiana,Howard,18067,1,5.4,5.4
+GA,Georgia,Gordon,13129,2,5.4,2.7
+VT,Vermont,Lamoille,50015,3,5.300000000000001,1.7666666666666668
+IN,Indiana,Tipton,18159,1,5.3,5.3
+GA,Georgia,Wilkinson,13319,2,5.3,2.65
+TX,Texas,Tarrant,48439,2,5.2,2.6
+MO,Missouri,St. Louis,29510,4,5.2,1.3
+IN,Indiana,Sullivan,18153,1,5.2,5.2
+IN,Indiana,Vigo,18167,1,5.2,5.2
+OR,Oregon,Washington,41067,2,5.2,2.6
+CA,California,Tuolumne,06109,2,5.1,2.55
+OK,Oklahoma,Pontotoc,40123,1,5.0,5.0
+UT,Utah,Salt Lake,49035,1,5.0,5.0
+VA,Virginia,Bath,51017,1,5.0,5.0
+NE,Nebraska,Washington,31177,1,5.0,5.0
+WI,Wisconsin,Trempealeau,55121,1,5.0,5.0
+MI,Michigan,Kent,26081,1,5.0,5.0
+MN,Minnesota,Meeker,27093,5,5.0,1.0
+CO,Colorado,Chaffee,08015,3,5.0,1.6666666666666667
+NE,Nebraska,Lancaster,31109,2,5.0,2.5
+VA,Virginia,Dinwiddie,51053,1,5.0,5.0
+SC,South Carolina,Cherokee,45021,1,5.0,5.0
+CO,Colorado,Pitkin,08097,1,5.0,5.0
+OK,Oklahoma,Murray,40099,1,5.0,5.0
+VA,Virginia,Goochland,51075,1,5.0,5.0
+IL,Illinois,Jo Daviess,17085,3,5.0,1.6666666666666667
+NY,Maine,Broome,36007,1,4.9,4.9
+TX,Texas,Guadalupe,48187,1,4.9,4.9
+KS,Kansas,Miami,20121,1,4.9,4.9
+MO,Missouri,Greene,29077,1,4.9,4.9
+VA,Virginia,Amherst,51009,1,4.9,4.9
+MS,Mississippi,Marshall,28093,1,4.8,4.8
+PA,Pennsylvania,Chester,42029,4,4.8,1.2
+AR,Arkansas,Howard,05061,2,4.8,2.4
+OH,Ohio,Cuyahoga,39035,2,4.7,2.35
+MI,Michigan,Berrien,26021,1,4.6,4.6
+WI,Wisconsin,Waukesha,55133,2,4.5,2.25
+IA,Iowa,Black Hawk,19013,2,4.5,2.25
+MO,Missouri,St. Charles,29183,1,4.5,4.5
+CA,California,San Francisco,06075,1,4.5,4.5
+NE,Nebraska,Scotts Bluff,31157,1,4.4,4.4
+TX,Texas,Lubbock,48303,1,4.4,4.4
+IN,Indiana,Perry,18123,2,4.300000000000001,2.1500000000000004
+GA,Georgia,Bleckley,13023,2,4.3,2.15
+IN,Indiana,Whitley,18183,1,4.3,4.3
+CA,California,Santa Cruz,06087,2,4.2,2.1
+VT,Vermont,Bennington,50003,2,4.2,2.1
+VT,Vermont,Orleans,50019,2,4.1,2.05
+GA,Georgia,Laurens,13175,1,4.1,4.1
+GA,Georgia,Tattnall,13267,2,4.1,2.05
+MT,Montana,Gallatin,30031,2,4.0,2.0
+IL,Illinois,Macoupin,17117,2,4.0,2.0
+SC,South Carolina,Greenville,45045,2,4.0,2.0
+IA,Iowa,Woodbury,19193,1,4.0,4.0
+OH,Ohio,Mercer,39107,1,4.0,4.0
+IL,Illinois,Boone,17007,2,4.0,2.0
+WI,Wisconsin,Dunn,55033,3,4.0,1.3333333333333333
+CO,Colorado,Rio Blanco,08103,1,4.0,4.0
+MA,Massachusetts,Suffolk,25025,2,4.0,2.0
+CO,Colorado,Baca,08009,1,4.0,4.0
+IL,Illinois,Madison,17119,2,4.0,2.0
+OK,Oklahoma,Grady,40051,1,4.0,4.0
+IN,Indiana,Vanderburgh,18163,2,4.0,2.0
+CO,Colorado,Moffat,08081,1,4.0,4.0
+UT,Utah,Utah,49049,1,4.0,4.0
+CA,California,Placer,06061,2,4.0,2.0
+CA,California,Marin,06041,4,4.0,1.0
+NY,New York,Rockland,36087,3,4.0,1.3333333333333333
+WV,Maryland,Berkeley,54003,2,4.0,2.0
+WI,Wisconsin,Price,55099,2,3.9,1.95
+IA,Iowa,Poweshiek,19157,1,3.9,3.9
+MI,Michigan,Leelanau,26089,3,3.8,1.2666666666666666
+IA,Iowa,Dubuque,19061,1,3.8,3.8
+OH,Ohio,Summit,39153,1,3.8,3.8
+NJ,New Jersey,Passaic,34031,2,3.8,1.9
+GA,Georgia,Troup,13285,2,3.8,1.9
+WI,Wisconsin,Vernon,55123,3,3.6,1.2
+MN,Minnesota,Freeborn,27047,3,3.5,1.1666666666666667
+MS,Mississippi,Harrison,28047,1,3.5,3.5
+PA,Pennsylvania,Montgomery,42091,3,3.5,1.1666666666666667
+UT,Utah,Weber,49057,1,3.4,3.4
+MN,Minnesota,Anoka,27003,1,3.4,3.4
+GA,Georgia,Columbia,13073,2,3.4,1.7
+IA,Iowa,Story,19169,2,3.4,1.7
+SC,South Carolina,Newberry,45071,1,3.3,3.3
+GA,Georgia,Sumter,13261,2,3.2,1.6
+WA,Washington,Benton,53005,1,3.2,3.2
+OH,Ohio,Huron,39077,1,3.2,3.2
+OH,Ohio,Trumbull,39155,2,3.2,1.6
+MS,Mississippi,Chickasaw,28017,1,3.1,3.1
+MA,Massachusetts,Dukes,25007,3,3.1,1.0333333333333334
+IN,Indiana,Johnson,18081,2,3.1,1.55
+CA,California,San Mateo,06081,2,3.0999999999999996,1.5499999999999998
+OK,Oklahoma,Love,40085,1,3.0,3.0
+WI,Wisconsin,Buffalo,55011,1,3.0,3.0
+PA,Pennsylvania,Allegheny,42003,1,3.0,3.0
+MI,Michigan,Ottawa,26139,1,3.0,3.0
+VA,Virginia,Bedford,51019,1,3.0,3.0
+GA,Georgia,Greene,13133,1,3.0,3.0
+GA,Georgia,Douglas,13097,1,3.0,3.0
+AR,Arkansas,St. Francis,05123,3,3.0,1.0
+KS,Kansas,Wilson,20205,2,3.0,1.5
+MT,Montana,Big Horn,30003,1,3.0,3.0
+MI,Michigan,Wayne,26163,2,3.0,1.5
+MT,Montana,Cascade,30013,1,3.0,3.0
+MN,Minnesota,Pine,27115,1,3.0,3.0
+PA,Pennsylvania,Bucks,42017,1,3.0,3.0
+NC,North Carolina,Cherokee,37039,3,3.0,1.0
+TX,Texas,Upshur,48459,1,3.0,3.0
+IA,Iowa,Johnson,19103,1,3.0,3.0
+SC,South Carolina,Lancaster,45057,1,3.0,3.0
+CA,California,Shasta,06089,2,3.0,1.5
+PA,Pennsylvania,Lebanon,42075,1,3.0,3.0
+GA,Georgia,Murray,13213,1,3.0,3.0
+GA,Georgia,Upson,13293,1,3.0,3.0
+NM,New Mexico,Lincoln,35027,1,3.0,3.0
+IA,Iowa,Winnebago,19189,1,3.0,3.0
+WI,Wisconsin,Polk,55095,2,3.0,1.5
+VA,Virginia,Wise,51195,1,3.0,3.0
+GA,Georgia,Franklin,13119,1,3.0,3.0
+MT,Montana,Golden Valley,30037,1,3.0,3.0
+FL,Florida,Pinellas,12103,2,2.9,1.45
+GA,Georgia,Emanuel,13107,1,2.9,2.9
+OR,Oregon,Linn,41043,1,2.9,2.9
+PA,Pennsylvania,Philadelphia,42101,1,2.9,2.9
+NM,New Mexico,Sierra,35051,2,2.9,1.45
+MO,Missouri,Saline,29195,1,2.8,2.8
+MO,Missouri,Macon,29121,1,2.8,2.8
+MO,Missouri,Bates,29013,1,2.8,2.8
+IN,Indiana,Hancock,18059,1,2.8,2.8
+OH,Ohio,Sandusky,39143,1,2.8,2.8
+MO,Missouri,Phelps,29161,1,2.8,2.8
+MO,Missouri,Grundy,29079,1,2.8,2.8
+MO,Missouri,Pulaski,29169,1,2.8,2.8
+CO,Colorado,Conejos,08021,2,2.7,1.35
+CO,Colorado,Jefferson,08059,2,2.7,1.35
+CO,Colorado,Saguache,08109,1,2.7,2.7
+KY,Kentucky,Grant,21081,1,2.7,2.7
+PA,Pennsylvania,Monroe,42089,1,2.7,2.7
+GA,Georgia,Bartow,13015,1,2.6,2.6
+NC,North Carolina,New Hanover,37129,2,2.6,1.3
+GA,Georgia,Wayne,13305,1,2.6,2.6
+IA,Iowa,Marshall,19127,1,2.6,2.6
+KS,Kansas,Shawnee,20177,2,2.6,1.3
+MO,Missouri,St. Francois,29187,1,2.5,2.5
+MO,Missouri,Cedar,29039,1,2.5,2.5
+OK,Oklahoma,Canadian,40017,1,2.5,2.5
+SC,South Carolina,Colleton,45029,1,2.5,2.5
+IN,Indiana,Porter,18127,2,2.5,1.25
+MO,Missouri,Laclede,29105,1,2.5,2.5
+VA,Virginia,Warren,51187,1,2.5,2.5
+MI,Michigan,Delta,26041,2,2.5,1.25
+MO,Missouri,Lafayette,29107,1,2.5,2.5
+MO,Missouri,Livingston,29117,1,2.5,2.5
+NJ,New Jersey,,,1,2.5,2.5
+NH,New Hampshire,Hillsborough,33011,1,2.4,2.4
+GA,Georgia,Chattooga,13055,1,2.4,2.4
+OH,Ohio,Wayne,39169,1,2.3,2.3
+MO,Missouri,Jasper,29097,1,2.3,2.3
+KS,Kansas,Geary,20061,2,2.3,1.15
+NE,Nebraska,Dakota,31043,1,2.3,2.3
+NE,Nebraska,Dodge,31053,2,2.3,1.15
+OH,Ohio,Hamilton,39061,1,2.3,2.3
+IA,Iowa,Lucas,19117,1,2.3,2.3
+CA,California,Humboldt,06023,1,2.2,2.2
+WI,Wisconsin,St. Croix,55109,1,2.2,2.2
+GA,Georgia,Chatham,13051,2,2.2,1.1
+CT,Connecticut,Greater Bridgeport,09120,1,2.2,2.2
+AR,Arkansas,Carroll,05015,2,2.2,1.1
+VT,Vermont,Essex,50009,1,2.1,2.1
+GA,Georgia,Harris,13145,1,2.1,2.1
+KY,Kentucky,Shelby,21211,1,2.1,2.1
+GA,Georgia,Charlton,13049,1,2.1,2.1
+OH,Ohio,Williams,39171,1,2.1,2.1
+TX,Texas,Dallas,48113,2,2.1,1.05
+UT,Utah,Washington,49053,1,2.0,2.0
+WI,Wisconsin,Monroe,55081,1,2.0,2.0
+WI,Wisconsin,Pierce,55093,1,2.0,2.0
+NM,New Mexico,Curry,35009,1,2.0,2.0
+NC,North Carolina,Hyde,37095,1,2.0,2.0
+WI,Wisconsin,Clark,55019,1,2.0,2.0
+GA,Georgia,Barrow,13013,1,2.0,2.0
+CO,Colorado,Crowley,08025,1,2.0,2.0
+WI,Wisconsin,Taylor,55119,1,2.0,2.0
+AR,Arkansas,Saline,05125,2,2.0,1.0
+WI,Wisconsin,Washburn,55129,1,2.0,2.0
+VA,Virginia,Chesterfield,51041,1,2.0,2.0
+IL,Illinois,Grundy,17063,1,2.0,2.0
+KS,Kansas,Comanche,20033,1,2.0,2.0
+MI,Michigan,Hillsdale,26059,1,2.0,2.0
+OH,Ohio,Hancock,39063,1,2.0,2.0
+IL,Illinois,Iroquois,17075,1,2.0,2.0
+IL,Illinois,Kendall,17093,1,2.0,2.0
+IL,Illinois,Marion,17121,1,2.0,2.0
+IL,Illinois,Marshall,17123,1,2.0,2.0
+OH,Ohio,Lorain,39093,1,2.0,2.0
+IL,Illinois,Richland,17159,1,2.0,2.0
+IL,Illinois,Tazewell,17179,1,2.0,2.0
+TN,Tennessee,Jefferson,47089,1,2.0,2.0
+OK,Oklahoma,Cleveland,40027,1,2.0,2.0
+KY,Kentucky,Boone,21015,1,2.0,2.0
+IN,Indiana,Dubois,18037,1,2.0,2.0
+KS,Kansas,Sedgwick,20173,2,2.0,1.0
+KS,Kansas,Reno,20155,2,2.0,1.0
+KS,Kansas,Mitchell,20123,1,2.0,2.0
+KS,Kansas,Butler,20015,2,2.0,1.0
+GA,Georgia,Grady,13131,1,2.0,2.0
+IL,Illinois,Franklin,17055,1,2.0,2.0
+IL,Illinois,Jefferson,17081,1,2.0,2.0
+MN,Minnesota,Itasca,27061,1,2.0,2.0
+NY,New York,Otsego,36077,1,2.0,2.0
+GA,Georgia,Madison,13195,1,2.0,2.0
+MT,Montana,Sweet Grass,30097,1,2.0,2.0
+MI,Michigan,Montcalm,26117,1,2.0,2.0
+MN,Minnesota,Brown,27015,2,2.0,1.0
+NM,New Mexico,Los Alamos,35028,2,2.0,1.0
+GA,Georgia,Pierce,13229,1,1.9,1.9
+GA,Georgia,Telfair,13271,1,1.9,1.9
+NC,North Carolina,Mecklenburg,37119,1,1.9,1.9
+OH,Ohio,Stark,39151,1,1.9,1.9
+OH,Ohio,Richland,39139,1,1.9,1.9
+GA,Georgia,Bryan,13029,1,1.9,1.9
+OH,Ohio,Licking,39089,1,1.9,1.9
+NC,North Carolina,Madison,37115,1,1.9,1.9
+TX,Texas,Harris,48201,1,1.9,1.9
+CO,Colorado,Fremont,08043,1,1.8,1.8
+NY,New York,Nassau,36059,1,1.8,1.8
+MN,Minnesota,Faribault,27043,1,1.8,1.8
+KS,Kansas,Osage,20139,1,1.8,1.8
+OH,Ohio,Greene,39057,1,1.8,1.8
+AR,Arkansas,Union,05139,1,1.8,1.8
+CA,California,,,1,1.8,1.8
+IA,Iowa,Muscatine,19139,1,1.8,1.8
+OH,Ohio,Darke,39037,1,1.8,1.8
+PA,Pennsylvania,Luzerne,42079,1,1.8,1.8
+CO,Colorado,La Plata,08067,1,1.7,1.7
+CO,Colorado,Rio Grande,08105,1,1.6,1.6
+IN,Indiana,Tippecanoe,18157,1,1.6,1.6
+OH,Ohio,Shelby,39149,1,1.6,1.6
+TN,Tennessee,Davidson,47037,1,1.6,1.6
+IA,Iowa,Davis,19051,1,1.6,1.6
+GA,Georgia,Seminole,13253,1,1.6,1.6
+IL,Illinois,Adams,17001,1,1.5,1.5
+IA,Iowa,Winneshiek,19191,1,1.5,1.5
+TX,Texas,Real,48385,1,1.5,1.5
+CA,California,Glenn,06021,1,1.5,1.5
+IA,Iowa,Mitchell,19131,1,1.5,1.5
+CO,Colorado,Otero,08089,1,1.5,1.5
+NE,Nebraska,Adams,31001,1,1.5,1.5
+NC,North Carolina,Haywood,37087,1,1.5,1.5
+FL,Florida,Seminole,12117,1,1.5,1.5
+OH,Ohio,Clark,39023,1,1.5,1.5
+GA,Georgia,Cobb,13067,1,1.5,1.5
+AR,Arkansas,Greene,05055,1,1.5,1.5
+IN,Indiana,Elkhart,18039,1,1.5,1.5
+IL,Illinois,Carroll,17015,1,1.5,1.5
+UT,Utah,Sanpete,49039,1,1.5,1.5
+GA,Georgia,Muscogee,13215,1,1.5,1.5
+MD,Maryland,Talbot,24041,1,1.5,1.5
+MS,Mississippi,Leake,28079,1,1.5,1.5
+MI,Michigan,St. Clair,26147,1,1.4,1.4
+OR,Oregon,Multnomah,41051,1,1.4,1.4
+TX,Texas,Williamson,48491,1,1.4,1.4
+GA,Georgia,Thomas,13275,1,1.4,1.4
+PA,Pennsylvania,Union,42119,1,1.4,1.4
+IL,Illinois,Henderson,17071,1,1.4,1.4
+TN,Tennessee,Sequatchie,47153,1,1.3,1.3
+VA,Virginia,Norfolk,51710,1,1.3,1.3
+VA,Virginia,Stafford,51179,1,1.3,1.3
+IA,Iowa,Clayton,19043,1,1.3,1.3
+KS,Kansas,Douglas,20045,1,1.3,1.3
+UT,Utah,Davis,49011,1,1.3,1.3
+CA,California,Sutter,06101,1,1.3,1.3
+IL,Illinois,Henry,17073,1,1.2,1.2
+MS,Mississippi,Rankin,28121,1,1.2,1.2
+VT,Vermont,Washington,50023,1,1.2,1.2
+OR,Oregon,Benton,41003,1,1.2,1.2
+MO,Missouri,Cape Girardeau,29031,1,1.2,1.2
+IN,Indiana,Clark,18019,1,1.1,1.1
+IN,Indiana,Decatur,18031,1,1.1,1.1
+FL,Florida,Broward,12011,1,1.1,1.1
+OH,Ohio,Montgomery,39113,1,1.1,1.1
+IN,Indiana,Harrison,18061,1,1.1,1.1
+IN,Indiana,Jackson,18071,1,1.1,1.1
+PA,Pennsylvania,Tioga,42117,1,1.1,1.1
+IN,Indiana,Monroe,18105,1,1.1,1.1
+IN,Indiana,Lawrence,18093,1,1.1,1.1
+IA,Iowa,Boone,19015,1,1.0,1.0
+NM,New Mexico,Grant,35017,1,1.0,1.0
+GA,Georgia,DeKalb,13089,1,1.0,1.0
+GA,Georgia,Cook,13075,1,1.0,1.0
+GA,Georgia,Jefferson,13163,1,1.0,1.0
+AR,Arkansas,Clay,05021,1,1.0,1.0
+NY,New York,Queens,36081,1,1.0,1.0
+MN,Minnesota,Carlton,27017,1,1.0,1.0
+MN,Minnesota,Red Lake,27125,1,1.0,1.0
+OH,Ohio,Franklin,39049,1,1.0,1.0
+WI,Wisconsin,Rusk,55107,1,1.0,1.0
+MI,Michigan,Washtenaw,26161,1,1.0,1.0
+AR,Arkansas,Garland,05051,1,1.0,1.0
+IA,Iowa,Dallas,19049,1,1.0,1.0
+NE,Nebraska,Seward,31159,1,1.0,1.0
+AR,Arkansas,Fulton,05049,1,1.0,1.0
+MI,Michigan,Kalamazoo,26077,1,1.0,1.0
+KS,Kansas,Dickinson,20041,1,1.0,1.0
+AR,Arkansas,Miller,05091,1,1.0,1.0
+CO,Colorado,Jackson,08057,1,1.0,1.0
+KS,Kansas,Neosho,20133,1,1.0,1.0
+PA,Pennsylvania,Schuylkill,42107,1,1.0,1.0
+KS,Kansas,Harvey,20079,1,1.0,1.0
+VT,Vermont,Grand Isle,50013,1,1.0,1.0
+KS,Kansas,Jefferson,20087,1,1.0,1.0
+KS,Kansas,Crawford,20037,1,1.0,1.0
+KS,Kansas,Kiowa,20097,1,1.0,1.0
+KS,Kansas,Chautauqua,20019,1,1.0,1.0
+KS,Kansas,Labette,20099,1,1.0,1.0
+KS,Kansas,Lyon,20111,1,1.0,1.0
+KS,Kansas,McPherson,20113,1,1.0,1.0
+AR,Arkansas,Van Buren,05141,1,1.0,1.0
+CO,Colorado,Grand,08049,1,1.0,1.0
+KS,Kansas,Pottawatomie,20149,1,1.0,1.0
+NE,Nebraska,Polk,31143,1,1.0,1.0
+KS,Kansas,Thomas,20193,1,1.0,1.0
+KS,Kansas,Wyandotte,20209,1,1.0,1.0
+NE,Nebraska,Howard,31093,1,1.0,1.0
+SD,South Dakota,Hughes,46065,1,1.0,1.0
+AR,Arkansas,Polk,05113,1,1.0,1.0
+OK,Oklahoma,Texas,40139,1,1.0,1.0
+AR,Arkansas,Ouachita,05103,1,1.0,1.0
+NE,Nebraska,Thayer,31169,1,1.0,1.0
+MN,Minnesota,Ramsey,27123,1,1.0,1.0

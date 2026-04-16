@@ -1,0 +1,378 @@
+# Selected renewables capacity by region (MW)
+# utilitypv:
+#   AZ1: 5105
+#   AZ2: 57771
+#   CA1: 70640
+#   CA2: 76849
+#   CO1: 42678
+#   ID1: 16601
+#   MT1: 7403
+#   MT2: 3318
+#   MT3: 1028
+#   MT4: 86
+#   NE1: 1879
+#   NM1: 12625
+#   NV1: 27312
+#   OR1: 52993
+#   SD1: 1218
+#   TX1: 5371
+#   UT1: 28665
+#   WA1: 67403
+#   WY1: 10807
+#   WY2: 1875
+cluster_with_retired_gens: true
+num_clusters:
+  Batteries: 1
+  Biomass: 1
+  Conventional Hydroelectric: 1
+  Conventional Steam Coal: 1
+  Geothermal: 1
+  Hydroelectric Pumped Storage: 1
+  Natural Gas Fired Combined Cycle: 1
+  Natural Gas Fired Combustion Turbine: 1
+  Natural Gas Steam Turbine: 1
+  Nuclear: 1
+  Onshore Wind Turbine: 1
+  Other_peaker: 1
+  Run of River Hydroelectric: 1
+  Solar Photovoltaic: 1
+group_technologies: true
+tech_groups:
+  Biomass:
+  - Biomass
+  - Landfill Gas
+  - Municipal Solid Waste
+  - Other Waste Biomass
+  - Wood/Wood Waste Biomass
+  Other_peaker:
+  - Natural Gas Internal Combustion Engine
+  - Other Gases
+  - Other Natural Gas
+  - Petroleum Liquids
+alt_num_clusters:
+  AZ2:
+    Natural Gas Fired Combined Cycle: 5
+    Natural Gas Fired Combustion Turbine: 5
+  CA1:
+    Natural Gas Fired Combined Cycle: 5
+    Natural Gas Fired Combustion Turbine: 5
+    Natural Gas Steam Turbine: 2
+  CA2:
+    Natural Gas Fired Combined Cycle: 5
+  CO1:
+    Natural Gas Fired Combined Cycle: 5
+hydro_factor: 2
+regional_hydro_factor:
+  WA1: 4
+  OR1: 4
+energy_storage_duration:
+  Hydroelectric Pumped Storage: 15.5
+  Batteries: 2
+resource_data_year: 2024
+resource_financial_case: Market
+resource_cap_recovery_years: 20
+alt_resource_cap_recovery_years:
+  Battery: 15
+  Nuclear: 40
+new_resources:
+- - UtilityPV
+  - Class1
+  - Moderate
+  - 100
+- - Utility-Scale Battery Storage
+  - Lithium Ion
+  - Moderate
+  - 60
+interconnect_capex_mw: 100000
+cache_resource_clusters: true
+use_resource_clusters_cache: true
+renewables_clusters:
+- region: AZ1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 23.32
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 5105
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: AZ2
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 25.28
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 2
+    mw_per_bin: 28886
+  cluster:
+  - feature: lcoe
+    n_clusters: 2
+    method: agg
+- region: CA1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 43.69
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 2
+    mw_per_bin: 35320
+  cluster:
+  - feature: lcoe
+    n_clusters: 9
+    method: agg
+- region: CA2
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 30.94
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 2
+    mw_per_bin: 38425
+  cluster:
+  - feature: lcoe
+    n_clusters: 5
+    method: agg
+- region: CO1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 26.5
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 42678
+  cluster:
+  - feature: lcoe
+    n_clusters: 5
+    method: agg
+- region: ID1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 26.92
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 16601
+  cluster:
+  - feature: lcoe
+    n_clusters: 2
+    method: agg
+- region: MT1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 28.41
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 7403
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: MT2
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 29.12
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 3318
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: MT3
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 26.22
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 1028
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: MT4
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 27.35
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 86
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: NE1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 25.18
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 1879
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: NM1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 23.84
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 12625
+  cluster:
+  - feature: lcoe
+    n_clusters: 2
+    method: agg
+- region: NV1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 25.63
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 27312
+  cluster:
+  - feature: lcoe
+    n_clusters: 4
+    method: agg
+- region: OR1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 36.6
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 2
+    mw_per_bin: 26496
+  cluster:
+  - feature: lcoe
+    n_clusters: 7
+    method: agg
+- region: SD1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 26.02
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 1218
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: TX1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 23.78
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 5371
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: UT1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 29.36
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 28665
+  cluster:
+  - feature: lcoe
+    n_clusters: 6
+    method: agg
+- region: WA1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 32.44
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 2
+    mw_per_bin: 33702
+  cluster:
+  - feature: lcoe
+    n_clusters: 5
+    method: agg
+- region: WY1
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 25.84
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 10807
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+- region: WY2
+  technology: utilitypv
+  filter:
+  - feature: lcoe
+    max: 25.99
+  bin:
+  - feature: lcoe
+    weights: capacity_mw
+    q: 1
+    mw_per_bin: 1875
+  cluster:
+  - feature: lcoe
+    n_clusters: 1
+    method: agg
+resource_modifiers:
+  utilitypv_class1:
+    technology: UtilityPV
+    tech_detail: Class1
+  utility_scale_battery_storage_lithium_ion:
+    technology: Utility-Scale Battery Storage
+    tech_detail: Lithium Ion
+    Var_OM_Cost_per_MWh: 0.15
+    Var_OM_Cost_per_MWh_In: 0.15
